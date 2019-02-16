@@ -1,7 +1,8 @@
 # Java course Learn from the masters
 Here are my tasks and solutions at Learn from the masters Java course. 
 
-* Solutions can be found [here.](https://github.com/Bzahov98/Java-LearnFro*mTheMasters/tree/master/src/main/java/com/musala/javacourse181112/tasks) 
+* Solutions can be found [here.](https://github.com/Bzahov98/Java-LearnFromTheMasters/tree/master/src/main/java/com/musala/javacourse181112/tasks) 
+* Module project can be found [here.](https://github.com/Bzahov98/Java-LearnFromTheMasters/tree/master/src/main/java/com/musala/javacourse181112/tasks/pawIncProject)
 * Training exercises can be found [here.](https://github.com/Bzahov98/Java-LearnFromTheMasters/tree/master/src/main/java/com/musala/javacourse181112)
 
 # Tasks List: 
