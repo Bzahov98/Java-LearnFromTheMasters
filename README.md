@@ -1,11 +1,24 @@
-# Java course Learn from the masters
-Here are my tasks and solutions at Learn from the masters Java course. 
+# Learn from the masters course
+* Course is separated in diferent modules:
+### Java module in Learn from the masters course:
+[Here](https://github.com/Bzahov98/Java-LearnFromTheMasters/tree/master/src/main/java/com/musala/javacourse181112) are my tasks and solutions at Learn from the masters Java course. 
 
-* Solutions can be found [here.](https://github.com/Bzahov98/Java-LearnFromTheMasters/tree/master/src/main/java/com/musala/javacourse181112/tasks) 
-* Module project can be found [here.](https://github.com/Bzahov98/Java-LearnFromTheMasters/tree/master/src/main/java/com/musala/javacourse181112/tasks/pawIncProject)
-* Training exercises can be found [here.](https://github.com/Bzahov98/Java-LearnFromTheMasters/tree/master/src/main/java/com/musala/javacourse181112)
+* Solutions from first part can be found [here.](https://github.com/Bzahov98/Java-LearnFromTheMasters/tree/master/src/main/java/com/musala/javacourse181112/FirstPartJava)
+* Solutions from second part can be found [here.](https://github.com/Bzahov98/Java-LearnFromTheMasters/tree/master/src/main/java/com/musala/javacourse181112/SecondPart) 
+* <b>Final project</b> for the module can be found [here.](https://github.com/Bzahov98/Java-LearnFromTheMasters/tree/master/src/main/java/com/musala/javacourse181112/FirstPartJava/tasks/pawIncProject)
 
-# Tasks List: 
+### Java ORM module with Hibernate in Learn from the masters course:
+Here are my tasks and solutions at Learn from the masters DB & ORM course
+* Projects are in separate modules [here.](https://github.com/Bzahov98/ORM-LearnFromTheMasters)
+   
+    * Film online system can be found [here.](https://github.com/Bzahov98/ORM-LearnFromTheMasters/tree/master/FilmsOnlineSystem)
+    * <b>Final project</b> for the module(Recruiting system) can be found [here.](https://github.com/Bzahov98/ORM-LearnFromTheMasters/tree/master/RecruitingSystem)
+   
+### Cuba-Platform module in Learn from the masters course:
+
+* Pet System (DB, ORM, WEB) using Cuba-Platform can be found here [here.](https://github.com/Bzahov98/PetSocialSystem-Cuba-Platform)
+
+###### Java Tasks List: 
 
 29.01:
 
