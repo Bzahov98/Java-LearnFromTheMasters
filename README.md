@@ -5,18 +5,28 @@
 
 * Solutions from first part can be found [here.](https://github.com/Bzahov98/Java-LearnFromTheMasters/tree/master/src/main/java/com/musala/javacourse181112/FirstPartJava)
 * Solutions from second part can be found [here.](https://github.com/Bzahov98/Java-LearnFromTheMasters/tree/master/src/main/java/com/musala/javacourse181112/SecondPart) 
-* <b>Final project</b> for the module can be found [here.](https://github.com/Bzahov98/Java-LearnFromTheMasters/tree/master/src/main/java/com/musala/javacourse181112/FirstPartJava/tasks/pawIncProject)
+* <b>Phone Book</b> project can be found [here.](https://github.com/Bzahov98/PhoneBook)
+* <b>Final project(pawIncProject)</b> for the module Java can be found [here.](https://github.com/Bzahov98/Java-LearnFromTheMasters/tree/master/src/main/java/com/musala/javacourse181112/FirstPartJava/tasks/pawIncProject)
 
-### Java ORM module with Hibernate in Learn from the masters course:
+### Java ORM/DataBase module with Hibernate in Learn from the masters course:
 Here are my tasks and solutions at Learn from the masters DB & ORM course
 * Projects are in separate modules [here.](https://github.com/Bzahov98/ORM-LearnFromTheMasters)
    
     * Film online system can be found [here.](https://github.com/Bzahov98/ORM-LearnFromTheMasters/tree/master/FilmsOnlineSystem)
-    * <b>Final project</b> for the module(Recruiting system) can be found [here.](https://github.com/Bzahov98/ORM-LearnFromTheMasters/tree/master/RecruitingSystem)
+    * <b>Final project(Recruiting system)</b> for the module ORM/DB can be found [here.](https://github.com/Bzahov98/ORM-LearnFromTheMasters/tree/master/RecruitingSystem)
    
 ### Cuba-Platform module in Learn from the masters course:
 
 * Pet System (DB, ORM, WEB) using Cuba-Platform can be found here [here.](https://github.com/Bzahov98/PetSocialSystem-Cuba-Platform)
+* <b>Final project(Pizza Delivery)</b> for CUBA-Platform module can be found [here.](https://github.com/Bzahov98/PizzaDelivery)
+
+
+
+
+
+
+
+# 
 
 ###### Java Tasks List: 
 
