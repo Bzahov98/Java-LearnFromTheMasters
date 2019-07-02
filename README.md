@@ -1,12 +1,12 @@
 # Learn from the masters course
-* Course is separated in diferent modules:
+* The Course is separated into different modules:
 ### Java module in Learn from the masters course:
 [Here](https://github.com/Bzahov98/Java-LearnFromTheMasters/tree/master/src/main/java/com/musala/javacourse181112) are my tasks and solutions at Learn from the masters Java course. 
 
-* Solutions from first part can be found [here.](https://github.com/Bzahov98/Java-LearnFromTheMasters/tree/master/src/main/java/com/musala/javacourse181112/FirstPartJava)
-* Solutions from second part can be found [here.](https://github.com/Bzahov98/Java-LearnFromTheMasters/tree/master/src/main/java/com/musala/javacourse181112/SecondPart) 
+* Solutions from the first part can be found [here.](https://github.com/Bzahov98/Java-LearnFromTheMasters/tree/master/src/main/java/com/musala/javacourse181112/FirstPartJava)
+* Solutions from the second part can be found [here.](https://github.com/Bzahov98/Java-LearnFromTheMasters/tree/master/src/main/java/com/musala/javacourse181112/SecondPart) 
 * <b>Phone Book</b> project can be found [here.](https://github.com/Bzahov98/PhoneBook)
-* <b>Final project(pawIncProject)</b> for the module Java can be found [here.](https://github.com/Bzahov98/Java-LearnFromTheMasters/tree/master/src/main/java/com/musala/javacourse181112/FirstPartJava/tasks/pawIncProject)
+* <b>Final project(Paw Inc Project)</b> for the module Java can be found [here.](https://github.com/Bzahov98/Java-LearnFromTheMasters/tree/master/src/main/java/com/musala/javacourse181112/FirstPartJava/tasks/pawIncProject)
 
 ### Java ORM/DataBase module with Hibernate in Learn from the masters course:
 Here are my tasks and solutions at Learn from the masters DB & ORM course
@@ -18,7 +18,8 @@ Here are my tasks and solutions at Learn from the masters DB & ORM course
 ### Cuba-Platform module in Learn from the masters course:
 
 * Pet System (DB, ORM, WEB) using Cuba-Platform can be found here [here.](https://github.com/Bzahov98/PetSocialSystem-Cuba-Platform)
-* <b>Final project(Pizza Delivery)</b> for CUBA-Platform module can be found [here.](https://github.com/Bzahov98/PizzaDelivery)
+* <b>Final project(Pizza Delivery)</b> for the CUBA-Platform module can be found [here.](https://github.com/Bzahov98/PizzaDelivery)
+
 
 
 
